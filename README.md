@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A todo app use Redux to manage state
 
 ## Getting Started
 
