@@ -1,6 +1,6 @@
 # todo_app
 
-A todo app use Redux to manage state
+A todo app use Redux to manage state, unit test
 
 ## Getting Started
 
